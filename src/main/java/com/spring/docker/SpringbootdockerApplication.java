@@ -12,7 +12,7 @@ public class SpringbootdockerApplication {
 	@GetMapping("/message")
 	public String getMessage()
 	{
-	  return "Welcome to the JAVA WORLD V:4";	
+	  return "Welcome to the JAVA WORLD V:6";	
 	}
 
 	public static void main(String[] args) {
